@@ -6,12 +6,12 @@
 #if x>y
 int main()
 {
-	printf("x = %d",x);
+	printf("x value = %d",x);
 }
 #elif x<y
 int main()
 {
-	printf("y = %d",y);
+	printf("y value = %d",y);
 }
 #else 
 	int main()
