@@ -1,7 +1,7 @@
 #include <stdio.h>
-#define x  5
+#define x  56
 
-#define y 10
+#define y 63
 
 #if x>y
 int main()
